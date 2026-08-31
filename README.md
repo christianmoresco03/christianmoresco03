@@ -1,10 +1,8 @@
 # Christian Moresco
 
-MSc Finance student at Bocconi University with a strong interest in corporate finance, strategy, data analysis and technology-driven business problems.
+MSc Finance student at Bocconi University, with previous professional experience in Audit at KPMG and as an M&A Intern.
 
-I enjoy working on projects that combine financial reasoning with practical analytical tools, especially when they can support real decision-making rather than remain purely theoretical.
-
-My academic background is primarily in finance, but I am particularly interested in roles where finance interacts with strategy, business transformation and data-driven decision-making.
+I am interested in corporate finance, strategy and data-driven decision-making. I enjoy developing practical analytical tools that combine financial reasoning with technology to support real business decisions.
 
 ## Areas of Interest
 
@@ -12,7 +10,6 @@ My academic background is primarily in finance, but I am particularly interested
 - Strategy & Business Transformation
 - Financial Analysis
 - Data Analytics
-- Technology-enabled decision making
 
 ## Selected Projects
 
