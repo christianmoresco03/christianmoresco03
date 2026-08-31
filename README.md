@@ -1,16 +1,24 @@
-## Hi there 👋
+# Christian Moresco
 
-<!--
-**christianmoresco03/christianmoresco03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Finance student at Bocconi University with a strong interest in corporate finance, strategy, data analysis and technology-driven business problems.
 
-Here are some ideas to get you started:
+I enjoy working on projects that combine financial reasoning with practical analytical tools, especially when they can support real decision-making rather than remain purely theoretical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic background is primarily in finance, but I am particularly interested in roles where finance interacts with strategy, business transformation and data-driven decision-making.
+
+## Areas of Interest
+
+- Corporate Finance
+- Strategy & Business Transformation
+- Financial Analysis
+- Data Analytics
+- Technology-enabled decision making
+
+## Selected Projects
+
+- [BioPortfolio](https://github.com/christianmoresco03/biotech-portfolio-optimizer) — biotech pipeline capital allocation and portfolio optimization
+- [Exchange Destination Analyzer](https://github.com/christianmoresco03/exchange-destination-analyzer) — data-driven ranking tool for international exchange destinations
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/christianmoresco000220/)
